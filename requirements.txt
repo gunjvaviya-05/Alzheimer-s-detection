@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scikit-fuzzy
+matplotlib
+seaborn
+streamlit
+joblib
+openpyxl
+# optional (for notebook usage)
+jupyterlab
+notebook
+ipykernel

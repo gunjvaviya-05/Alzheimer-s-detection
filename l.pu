@@ -1,0 +1,20 @@
+AlzheimerFuzzySystem/
+│
+├── data/
+│   ├── alzheimers_dataset.csv
+│
+├── notebooks/
+│   ├── data_preprocessing.ipynb
+│   ├── fuzzy_system_design.ipynb
+│
+├── models/
+│   ├── fuzzy_inference_system.pkl
+│
+├── app/
+│   ├── main.py (Streamlit/Tkinter app)
+│
+├── results/
+│   ├── evaluation_metrics.csv
+│
+└── README.md
+
